@@ -14,7 +14,7 @@ function Footer() {
                 </div>
                 {/* Social and Currently At */}
                 <div className='flex flex-wrap justify-between gap-4 mt-6'>
-                    <div>
+                    <div >
                         <div className='text-lg font-medium'>#exploretheworld </div>
                         <div className='flex items-center gap-3 text=neutral-600 mt-2'>
                             <SocialLink
